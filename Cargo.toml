@@ -1,0 +1,3 @@
+[workspace]
+members = ["*"]
+exclude = [".idea",".vscode",".git","target"]
